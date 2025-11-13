@@ -1,1 +1,1 @@
-# SwagLabs_automationProject
+# SwagLabs_AutomationProject
